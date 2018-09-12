@@ -1,7 +1,7 @@
 # ArduinoTimer
 Based in Mishaux original code
 
-Just updated the code to reflect the new libraries, working on IDE 1.8.2 (September 2018)
+Just updated the code to reflect the new libraries, working on IDE 1.8.7 (September 2018)
 
 ------------------------
 Original text from Mishaux
