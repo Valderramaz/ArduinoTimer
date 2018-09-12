@@ -3,6 +3,8 @@ Based in Mishaux original code
 
 Just updated the code to reflect the new libraries, workind on IDE 1.8.2
 
+------------------------
+Original text from Mishaux
 
 An infinitely variable interval timer built around an Arduino
 
